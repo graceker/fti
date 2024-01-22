@@ -5,8 +5,8 @@ metadata:
   labels:
     app: postgres
 data:
-  POSTGRES_DB: postgresdb
-  POSTGRES_USER: citus
-  POSTGRES_PASSWORD: pass123
+  POSTGRES_DB: greisi
+  POSTGRES_USER: greisi
+  POSTGRES_PASSWORD: Chochang8
 
 # kubectl apply -f postgres-config.yaml
