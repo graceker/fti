@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: graceker/fti:latest
+        image: greisikertuka/fti:latest
         imagePullPolicy: Always
         securityContext:
           allowPrivilegeEscalation: false
